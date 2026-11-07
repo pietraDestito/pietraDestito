@@ -19,8 +19,3 @@ Estudante de Ciência da Computação apaixonada por desenvolvimento back-end, c
 
 * 🍰 **[Casa do Bolo](https://github.com/pietraDestito/casa_do_bolo):** Sistema web desenvolvido com C#, ASP.NET Core MVC e SQL Server para gerenciamento de pedidos, clientes e produtos.
 * ⚽ **[MundialFeminino.Api](https://github.com/pietraDestito/MundialFeminino.Api):** API RESTful modelando a história da Copa do Mundo Feminina da FIFA, desenvolvida em .NET e SQL Server.
-
-### 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pietradestito)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pietradestito.dev@gmail.com)
